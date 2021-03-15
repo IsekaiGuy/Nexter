@@ -10,7 +10,7 @@
 
 ## About Project
 <p>
-Realtor company SPA built using CSS grid.
+Realtor company main page built using CSS grid.
 </p>
 
 ## Getting Started
